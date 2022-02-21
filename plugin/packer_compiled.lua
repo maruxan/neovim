@@ -74,6 +74,11 @@ _G.packer_plugins = {
     path = "/home/maruxan/.local/share/nvim/site/pack/packer/start/colorschemes",
     url = "https://github.com/lunarvim/colorschemes"
   },
+  ["minusdark.nvim"] = {
+    loaded = true,
+    path = "/home/maruxan/.local/share/nvim/site/pack/packer/start/minusdark.nvim",
+    url = "https://github.com/maruxan/minusdark.nvim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/maruxan/.local/share/nvim/site/pack/packer/start/packer.nvim",
